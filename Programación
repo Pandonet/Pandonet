@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://tv.naturalplus.live:25461/images/646465d19bcf7b75b51c02afe7e3c484.jpg" group-title="SAGA ROCKY BALBOA", Creed II: la leyenda de Rocky (2018)
+http://tv.naturalplus.live:25461/movie/Maria2001/Maria2001/47256.mp4
+
+#EXTINF:-1 tvg-logo="http://tv.naturalplus.live:25461/images/ac2c86167c8267e20a4da7dd7dfd8f72.jpg" group-title="SAGA ROCKY BALBOA", Creed. La leyenda de Rocky (2015)
+http://tv.naturalplus.live:25461/movie/Maria2001/Maria2001/47257.mp4
+
+#EXTINF:-1 tvg-logo="http://tv.naturalplus.live:25461/images/fe04fef710031c5877dce53512b13739.jpg" group-title="SAGA ROCKY BALBOA", Rocky (1976)
+http://tv.naturalplus.live:25461/movie/Maria2001/Maria2001/47258.mp4
+
+#EXTINF:-1 tvg-logo="http://tv.naturalplus.live:25461/images/e36ba45238346b7d7182d0aecdccc408.jpg" group-title="SAGA ROCKY BALBOA", Rocky II (1979)
+http://tv.naturalplus.live:25461/movie/Maria2001/Maria2001/47259.mp4
+
+#EXTINF:-1 tvg-logo="http://tv.naturalplus.live:25461/images/b44fd1196bd47c00fe5b8ccbc306167d.jpg" group-title="SAGA ROCKY BALBOA", Rocky III (1982)
+http://tv.naturalplus.live:25461/movie/Maria2001/Maria2001/47260.mp4
+
+#EXTINF:-1 tvg-logo="http://tv.naturalplus.live:25461/images/8aa94c04c358eae8f2c930a742576811.jpg" group-title="SAGA ROCKY BALBOA", Rocky IV (1985)
+http://tv.naturalplus.live:25461/movie/Maria2001/Maria2001/47261.mp4
+
+#EXTINF:-1 tvg-logo="http://tv.naturalplus.live:25461/images/5d12dbf2d9c6f26e8fb7e92b6a9f64b1.jpg" group-title="SAGA ROCKY BALBOA", Rocky V (1990)
+http://tv.naturalplus.live:25461/movie/Maria2001/Maria2001/47262.mp4
+
+#EXTINF:-1 tvg-logo="http://tv.naturalplus.live:25461/images/a2164b2cf5dbc46888e367c9208c7cd4.jpg" group-title="SAGA ROCKY BALBOA", Rocky Balboa (2006)
+http://tv.naturalplus.live:25461/movie/Maria2001/Maria2001/47263.mp4
