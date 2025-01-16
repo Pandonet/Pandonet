@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1719479
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d042878-a4ee-480d-8f14-ebbfb96388e9
 #EXTINF:-1 tvg-logo="https://images.zeno.fm/8jARLj62VTJ0NAFjo5fLhFyMI25SVXGw93d6wybAfe8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRN3FpT3Bna01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURROXJTUWp3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3MzQxOTMzMjc5Mzg.webp" group-title="General",PANDONETTVRADIO
 https://stream.zeno.fm/vws3fzdakg0uv
 #EXTINF:-1 tvg-logo="https://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="General", TVU PANDO
@@ -707,3 +707,19 @@ http://mega4k.one:8080/jatin123/123456/116620
 http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/899
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="General",RECORD SP HDR+ 
 http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/999
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Romance_TV_Logo_2015.png/1280px-Romance_TV_Logo_2015.png" group-title="General",Amantes del Romance  24/7
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268072-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68743968-8695-4725-b7a7-5a4926c380d1
+#EXTINF:-1 tvg-logo="https://www.novelisima.com/_next/image?url=https%3A%2F%2Fkki5auiqw9.execute-api.us-east-1.amazonaws.com%2Fstg%2Fresize%3Furl%3Dhttps%3A%2F%2Ffrankly-vod.akamaized.net%2Fnov%2Fuploaded%2F660f002a-13fb-46d7-a2d7-d998b59738a1.png&w=3840&q=90" group-title="General",NOVELISIMA
+https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
+#EXTINF:-1 tvg-logo="https://b2357908.smushcdn.com/2357908/wp-content/uploads/2020/10/2-cine-romantico-logo-only.png?lossy=1&strip=1&webp=1" group-title="General",CINE ROMÁNTICO 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4f1233c35ada25f58697e58497c6524c94f6b4c8c0894a478d75ee813e6da5cb.jpg" group-title="General",EL CONTRATISTA (2022)
+http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/74506.mkv
+#EXTINF:-1 tvg-logo="https://film-authority.com/wp-content/uploads/2023/03/share-1.jpg" group-title="General",JOHN WICK  4 (2023)
+http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/75601.mkv
+#EXTINF:-1 tvg-logo="https://www.mundiario.com/asset/thumbnail,1280,720,center,center/media/cineseries/images/2022/04/12/2022041219572861236.png" group-title="General",LA CIUDAD PERDIDA  (2022)
+http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/75579.mkv
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWmZJ69lkKyKixMhLIMjrFeCzgSjFJ4k3gQlfm365WSEelA8ebbLOb1s8WYqz5pG1Aky5ZVmcMKEGGeON0BXI5PNHYhpLbiTp0MDkDoiBHrIzqqLwEurSdlfyrU4KKIR__o1shvXFOsAvUqjuDlpWxC5JpP3IvrNaJzUkm1AqaEh4Uwby_XQkIO73MHu4/w640-h362/vlcsnap-2024-02-28-13h33m36s319.png" group-title="General",Codigo 8 parte 2 (2024)
+http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/75691.mkv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FtetDCS6jF4/maxresdefault.jpg" group-title="General",MÚSICA (2024)
+http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/78708.mkv
