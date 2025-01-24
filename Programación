@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
-http://bedroombullyonline.com:3050/aecargo@aol.com/QB8eYQ7pJ7/611513
+http://fastream.xyz:8080/bgivon22filo/tvvenegas22/236465
 #EXTINF:-1 tvg-logo="https://images.zeno.fm/8jARLj62VTJ0NAFjo5fLhFyMI25SVXGw93d6wybAfe8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRN3FpT3Bna01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURROXJTUWp3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3MzQxOTMzMjc5Mzg.webp" group-title="General",PANDONETTVRADIO
 https://stream.zeno.fm/vws3fzdakg0uv
 #EXTINF:-1 tvg-logo="https://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="General", TVU PANDO
@@ -45,10 +45,14 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1530797
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767516
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaogUkbqxDkDwYmc08VJFdmCxYTQdPCzMDFQ&s" group-title="General",CINE NAVIDAD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1125665
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="General",Nick junior  HD
+http://lalechuza.top:80/Rg5VVADYEw/meH7mn2dX6/26517
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp" group-title="General",Cartoonito
 http://home-playtv.com:8080/cristian45x/UQSJS/19474
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Bghpr7/babytv-2017.png" group-title="General",BABY TV
 http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/342
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpwgPRmFPEd0MTVow6Q8guSyjyOtrDa8MH-g&s" group-title="General",Disney junior HD
+http://lalechuza.top:80/Rg5VVADYEw/meH7mn2dX6/26520
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LC7YcF3/descarga.jpg" group-title="General",LUIS MIGUEL Viña del mar 
 http://moontools.me:8080/movie/B.O.S.S_I.P/WycFeigyEn/1772744.mkv
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-latin-america-logo-6C5053D00E-seeklogo.com.png" group-title="General",TNT SERIES 
@@ -707,7 +711,7 @@ http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/75579.mkv
 http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/75691.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FtetDCS6jF4/maxresdefault.jpg" group-title="General",MÚSICA (2024)
 http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/78708.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Win sport Colombia SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b2/WIN_Television_%282001%29.png/revision/latest?cb=20221006031403" group-title="General",Win sport Colombia SD
 http://tvmate.icu:8080/23177336/23177336/78717
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1fMOyRvhw8GmBDAtwRJCV2Y3Njyr9UT4o8Q&s" group-title="General",De Vuelta a la Acción  (2025)
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268779.mp4
@@ -723,3 +727,23 @@ http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268615.mp4
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268716.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Imparable_La_historia_de_Anthony_Robles-494329093-large.jpg" group-title="General",Imparable: La historia de Antony Robles (2024)
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268772.mp4
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2014/11/404994-critica-interstellar-nueva-pelicula-ciencia-ficcion-nolan.jpg?tf=3840x" group-title="General",Interestelar 
+http://ultrapremium.cloud:8080/movie/33039929/pp6062023/268662.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nick_HD.png/640px-Nick_HD.png" group-title="General",NICKELEDEON HD
+http://lalechuza.top:80/Rg5VVADYEw/meH7mn2dX6/26530
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zylvCqNTAiQ/sddefault.jpg" group-title="General",RESPIRA (2024)
+http://lalechuza.top:80/movie/Rg5VVADYEw/meH7mn2dX6/110085.mkv
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-iEag4hzdVITsl9Pp-r0ENKw-t500x500.jpg" group-title="General",Sniper La última resistencia 
+http://lalechuza.top:80/movie/Rg5VVADYEw/meH7mn2dX6/131063.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/1bd5dbeb3e9df4b2d614de05b4799f37b0152d00cb73746085c9be53c7815b9a.png" group-title="General",COLOMBIANA 
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268649.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMqSyxQaM1TG-Z0yOmqT92eB4SwRtON96o8g&s" group-title="General",METRALLA
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268715.mp4
+#EXTINF:-1 tvg-logo="https://elblogdefinlandia.com/wp-content/uploads/2024/09/Cartel-pelicula-Sisu_fofoIMDB.png" group-title="General",SISU
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268229.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2001/11/w1280/eks6RpmqDDOhT1LWUvTDmQCLtxE.jpg" group-title="General",EL ÚNICO 
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/253420.mp4
+#EXTINF:-1 tvg-logo="https://fandompelicula.com/wp-content/uploads/2023/04/image-6.png" group-title="General",LA HEREDERA DE LA MAFIA 
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/253355.mp4
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/232/167/png-transparent-24-hour-service-24-hours-service-yellow-thumbnail.png" group-title="General",CINE FAMILIA 24/7 FULL HD
+http://fastream.xyz:8080/bgivon22filo/tvvenegas22/236467
