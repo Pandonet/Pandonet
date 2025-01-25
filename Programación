@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
-http://fastream.xyz:8080/bgivon22filo/tvvenegas22/236465
+https://ssh101-fl.bozztv.com/ssh101/pandonettv4201/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.zeno.fm/8jARLj62VTJ0NAFjo5fLhFyMI25SVXGw93d6wybAfe8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRN3FpT3Bna01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURROXJTUWp3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3MzQxOTMzMjc5Mzg.webp" group-title="General",PANDONETTVRADIO
 https://stream.zeno.fm/vws3fzdakg0uv
 #EXTINF:-1 tvg-logo="https://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="General", TVU PANDO
