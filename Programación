@@ -1,20 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
-http://fastream.xyz:8080/bgivon22filo/tvvenegas22/236465
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1748024
 #EXTINF:-1 tvg-logo="https://images.zeno.fm/8jARLj62VTJ0NAFjo5fLhFyMI25SVXGw93d6wybAfe8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRN3FpT3Bna01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURROXJTUWp3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3MzQxOTMzMjc5Mzg.webp" group-title="General",PANDONETTVRADIO
 https://stream.zeno.fm/vws3fzdakg0uv
 #EXTINF:-1 tvg-logo="https://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="General", TVU PANDO
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767505
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL HD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/77987
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL La Paz
-http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1121427
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",Unitel Santa Cruz
-http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1121428
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r6LWLBp/images.jpg" group-title="General",RNVSAM TV 24/7
-https://stream.gia.tv/giatvplayout7/giatv-208170/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="General",RTP
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1767454
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTKLnNTBtjhb64a-hY7OnezpCP0rMiuILb9R_hVdF9XqhdxsVRs4WmeQJ5o0W1rYHFNw&usqp=CAU" group-title="General",RED UNO
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtv.bo/wp-content/uploads/2023/07/cropped-LOGO-DTV.png" group-title="General",DTV HD
@@ -23,6 +19,12 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767476
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/23927
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="General",PAT LA PAZ
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767478
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL COCHABAMBA 
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1767519
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",Unitel Santa Cruz
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/77987
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r6LWLBp/images.jpg" group-title="General",RNVSAM TV 24/7
+https://stream.gia.tv/giatvplayout7/giatv-208170/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="General",Bolivia Tv
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redamerica.tv.bo/wp-content/uploads/2024/01/cropped-cropped-logo_ra.png" group-title="General",TV AMÉRICA 
@@ -34,7 +36,7 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767503
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HphN1fM/14f9e0e692e37453a4a9d05a2302609f.jpg" group-title="General",TIGO SPORT
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1220636
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HphN1fM/14f9e0e692e37453a4a9d05a2302609f.jpg" group-title="General",Tigo SPORT 3 (Solo Eventos)
-http://bedroombullyonline.com:3050/aecargo@aol.com/QB8eYQ7pJ7/611068
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/108201
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhYcVI9f3b-OGhn5Hz4ycBNAk9ETV0MBpnpg&s" group-title="General",FTV SC HD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1321623
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8eeTTsj7IeMvk5bEkNa2av7FpwNdB6M7cg&s" group-title="General",PTV HD 
@@ -43,18 +45,18 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767508
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1530797
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiX3wojXYOEfWXWoF5QejHxZ3EDjLYIM4aWA&s" group-title="General",EGPP 360
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767516
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaogUkbqxDkDwYmc08VJFdmCxYTQdPCzMDFQ&s" group-title="General",CINE NAVIDAD
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1125665
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaogUkbqxDkDwYmc08VJFdmCxYTQdPCzMDFQ&s" group-title="General",CINE PREMIUM 
+http://190.13.81.218:18000/play/a007
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="General",Nick junior  HD
-http://lalechuza.top:80/Rg5VVADYEw/meH7mn2dX6/26517
+http://tadeotv1.guiritv.xyz:8080/3zwpO1hZjd/OL3sVM8cNu/5887
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp" group-title="General",Cartoonito
-http://home-playtv.com:8080/cristian45x/UQSJS/19474
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1165167
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Bghpr7/babytv-2017.png" group-title="General",BABY TV
 http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/342
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpwgPRmFPEd0MTVow6Q8guSyjyOtrDa8MH-g&s" group-title="General",Disney junior HD
-http://lalechuza.top:80/Rg5VVADYEw/meH7mn2dX6/26520
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LC7YcF3/descarga.jpg" group-title="General",LUIS MIGUEL Viña del mar 
-http://moontools.me:8080/movie/B.O.S.S_I.P/WycFeigyEn/1772744.mkv
+http://tadeotv1.guiritv.xyz:8080/3zwpO1hZjd/OL3sVM8cNu/5855
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LC7YcF3/descarga.jpg" group-title="General",Discovery Kids
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/81899
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-latin-america-logo-6C5053D00E-seeklogo.com.png" group-title="General",TNT SERIES 
 http://home-playtv.com:8080/cristian45x/UQSJS/53054
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-latin-america-logo-6C5053D00E-seeklogo.com.png" group-title="General",TNT  NOVELAS 4K
@@ -102,7 +104,7 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/81911
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo-latina-despues.jpg" group-title="General",Latina
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/19005
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo-latina-despues.jpg" group-title="General",FRECUENCIA LATINA 
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1210669
+http://8.242.176.45:1013/play/a0ng/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/800px-ATV_%28Peru%29_-_2018_logo.png" group-title="General",ATV PERU
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22619
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Panamericana_2020.png" group-title="General",Panamericana 
@@ -216,13 +218,13 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1391274
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/G3QG8P89WrnTdkzvk557_6e19Hw__L_BNv2fwAhM0I6G21oV56ESY3el5j7gKpaUxxzRm7xNZ3uE=ns-nd" group-title="General",Claro Tv &#34;,Claro:PASIONES HD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/23515
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rvp9tq4/434.png" group-title="General",ANIMAL PLANET 
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/23503
+http://190.13.81.218:18000/play/a0g5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brNXMfF/2222.png" group-title="General",Box4
 http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9570
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8d27yFb/4444.png" group-title="General",A+
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/81930
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHZ2EUeINtjOVaSOHGnZG5vjtq9.jpg" group-title="General",Sobreviviendo  a Escobar 24/7
-http://fivetv.org:25461/patricio662/paez663/253284
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHZ2EUeINtjOVaSOHGnZG5vjtq9.jpg" group-title="General",CINE FAMILIAR 
+http://190.13.81.218:18000/play/a005
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="General", Telehit SD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/81669
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/57-579021_file-mtv-live-svg-mtv-live-logo-png.png" group-title="General",MTV LIVE SD
@@ -236,7 +238,7 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/81634
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="General",&#34;MEXICO || LTV&#34;,MX || Cinema SD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/81701
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNkMjQzNmQtNzE4ZC00NDlmLTkyYjAtZDZkYTQ5NjBmYThlXkEyXkFqcGc@._V1_.jpg" group-title="General",Equipaje de Mano 
-http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2syUHf2GfAR5qbVIXIeTmXM#.mkv
+http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17884.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkyNmU4MzAtOTkxOC00YzQ2LTlmY2QtOWQ0YmVjOGQxMWFlXkEyXkFqcGc@._V1_.jpg" group-title="General",Furias (2022)
 http://cord-cutter.net:8080/movie/23290078/13941299/202646.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_t_ujbqDA4BOZLlebVYIMua_SQIuAloyrNQ&s" group-title="General",Furia (2019)
@@ -259,8 +261,8 @@ http://tvmate.icu:8080/movie/23177336/23177336/202985.mp4
 http://tvmate.icu:8080/movie/23177336/23177336/203016.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" group-title="General",el guerrero samurái
 http://tvmate.icu:8080/movie/23177336/23177336/202746.mkv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinWp_ynxg0PUP1a7CBsAGmhu6oyvxMCyjFA&s" group-title="General",JUEGO DE ASESINOS 2024 
-http://ultrapremium.cloud:8080/movie/marcelarojas/rGS5BB9wCz7S/266258.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinWp_ynxg0PUP1a7CBsAGmhu6oyvxMCyjFA&s" group-title="General",EL JUEGO DE ASCENSOR  (2023)
+http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17939.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jk8Q4y/descarga.jpg" group-title="General",DOS MINUTOS DE FAMA
 http://tvmate.icu:8080/movie/23177336/23177336/202206.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHC0eFvXXNokP3sSNCTG2uks87R.jpg" group-title="General", 4 DÍAS (2021)
@@ -515,68 +517,62 @@ http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2sd88HE3mA7yy5udZ68lZ4o#.mkv
 http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2oL4bxD3jJex-Q3EY-veFOc#.mkv
 #EXTINF:-1 tvg-logo="https://imgmedia.larepublica.pe/640x371/larepublica/original/2024/09/08/66de21a03bd55f4dec2faec3.webp" group-title="General",ASESINATO (2024)
 http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2qW1bxuRbCDZ4g250-zoNWI#.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/71X1YbY/Utool-20241226-231213698.png" group-title="General",ALQUILER 
-http://344160253918267808.ofdhu1210.xyz:80/play/picasso1/canabate1/267808.ts
-#EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2023/03/22/NT33Y2HSFZC6LAFPM7THP3DBMU.jpg" group-title="General",HBO FAMILY 
-http://bedroombullyonline.com:3050/aecargo@aol.com/QB8eYQ7pJ7/611513
+#EXTINF:-1 tvg-logo="https://i.ibb.co/71X1YbY/Utool-20241226-231213698.png" group-title="General",Mi MÚSICA 
+http://8.242.176.45:1013/play/a0es/index.m3u8
+#EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2023/03/22/NT33Y2HSFZC6LAFPM7THP3DBMU.jpg" group-title="General",EL JUEGO DEL CALAMAR 
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1726868
 #EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2023/03/22/NT33Y2HSFZC6LAFPM7THP3DBMU.jpg" group-title="General",NETFLIX ACCIÓN 
-http://243246186325991911.ofdhu1210.xyz:80/live/te321605/pWSprudDFHE/991911.ts
-#EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2023/03/22/NT33Y2HSFZC6LAFPM7THP3DBMU.jpg" group-title="General",NETFLIX FULL HD
-http://243246186325991912.ofdhu1210.xyz:80/live/te321605/pWSprudDFHE/991912.ts
-#EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2023/03/22/NT33Y2HSFZC6LAFPM7THP3DBMU.jpg" group-title="General",NETFLIX HORROR FULL HD 
-http://243246186325991914.ofdhu1210.xyz:80/live/te321605/pWSprudDFHE/991914.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",ESTRENOS 1 NETFLIX 2024 24/7
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1726914
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",ESTRENOS 2 NETFLIX 2024 24/7
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1719479
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BxgfT4j9sMUmPoXH5nUk5uFO0KkCX3kUQg&s" group-title="General",CINE ACCIÓN 24/7
-http://tv.nousiptv.com:8080/luissequeira/LS2389365/8128
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1726914
+#EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2023/03/22/NT33Y2HSFZC6LAFPM7THP3DBMU.jpg" group-title="General",EL JUEGO DEL CALAMAR EL DESAFÍO 
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1726867
+#EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2023/03/22/NT33Y2HSFZC6LAFPM7THP3DBMU.jpg" group-title="General",EL JUEGO DEL CALAMAR S01
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1726866
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",ADRENALINA DEPORTIVA 
+http://148.113.190.252:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",CINE PÁNICO HD 24/7
+http://148.113.190.252:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BxgfT4j9sMUmPoXH5nUk5uFO0KkCX3kUQg&s" group-title="General",CINE HISPANO 
+http://8.242.176.45:1013/play/a0eu/index.m3u8
 #EXTINF:-1 tvg-logo="https://iamcantinflas.com/wp-content/uploads/2022/05/cantinflas-biography.png" group-title="General",Cantinflas 24/7
-http://tv.nousiptv.com:8080/luissequeira/LS2389365/1144258
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1528016
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8fPQm_ticGqkxB2cR6RvWsU8p5j60jPnHA&s" group-title="General",EL CHAVO DEL 8 24/7
-http://tv.nousiptv.com:8080/luissequeira/LS2389365/18576
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1125753
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/abccolor/DWJ3PMHI6VASDOTSCUT5NXM3SI.jpg" group-title="General",Mi Villano favorito 4 (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1214752.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1730443.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Huye_conejo_huye-605052060-large.jpg" group-title="General",Huye (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1222578.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1793686.mkv
 #EXTINF:-1 tvg-logo="https://diamondfilms.com/img/poster/66ce21d4eca89069a476c9c0e.jpg" group-title="General",El plan del asesino 
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1222686.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1795093.mkv
 #EXTINF:-1 tvg-logo="https://media.filmelier.com//images/tit/26984/poster/take-cover89551.webp" group-title="General",Sin refugio (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1222780.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1786554.mp4
 #EXTINF:-1 tvg-logo="https://www.escribegermador.com/wp-content/uploads/2024/06/Kill.jpg" group-title="General",Masacre en el tren (2024)
-http://103.145.12.63:25461/movie/luissequeira/LS2389365/1223496.mkv?token=GENYUUEOGwkbWFcNBwZbVQcBAgcBV1EGVwADUwwHBgYCVAFRCwdfVgwbGRZER0pWAlhqXVxDWwEDBFUBDFNOExYSVUJtD10RAxsEAgEADQJBGRdAUQwEEgsHUQYAUFAFU1IBHBAWUFcbAxcCBwMNAkEZF1FAFQRCX1cKalEAFFgABBIKEEQVEVZXalBSXlldBxcPFghDTRJYRRYXDwsXXQ9NElJbEktSTVwXDhUHAQRTFxkWWw4UXkVEHxcPRyB+QU0SVUoSXF1KUFpaFQkaXghDFxgaCBJvQ1MVQUcAA1wGExIKEFYbHxtUVExoUFddDVBWQFEOD0MTDEQEF0lAXAwPWURdFGZDUF0XDllGVF8e
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1799341.mkv
 #EXTINF:-1 tvg-logo="https://www.codigotrajerojo.com/images/share.jpg" group-title="General",Codigo Traje rojo (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1224094.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1297865.mkv
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/SBYQXHB4ZVGYBEAXVWIPLNTWEM.png" group-title="General",Texas (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1224277.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1803154.mkv
 #EXTINF:-1 tvg-logo="https://resizing.flixster.com/3Kplnsc95Jm_zLmTogDUdtHDF5I=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27045029_v_h9_af.jpg" group-title="General",Smile 2 (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1223197.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fa1405fd19f07e74c2cdfe4b5e90ce275be45cd04ba3c588538bfbc23beb65a5.jpg" group-title="General",Las Tías (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1224699.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1347358.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fa1405fd19f07e74c2cdfe4b5e90ce275be45cd04ba3c588538bfbc23beb65a5.jpg" group-title="General",ARCADIAN (2025)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1852570.mkv
 #EXTINF:-1 tvg-logo="https://www.citicinemas.com/api/og/movie/contrato-para-matar" group-title="General",Fast Charlie  Contrato para matar 
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1223196.mkv
-#EXTINF:-1 tvg-logo="https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZsg5cr0PGW4kUK9uLBdRyyeVInT3eMoHk3AeoLPJttwkzvsh-Y65qbz-PooqZyBe_65uryjQdVa9eJTGiLL5MEpCBgz2_0WhLxSiNvwL9ykdnGly46Y-r3gCQzl2stxfeSFaA.jpg?r=3e6" group-title="General",OVNIS PROYECTO  DE ALTO SECRETO DESCLASIFICADOS 1
-http://tv.nousiptv.com:8080/series/luissequeira/LS2389365/1114870.mkv
-#EXTINF:-1 tvg-logo="https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZsg5cr0PGW4kUK9uLBdRyyeVInT3eMoHk3AeoLPJttwkzvsh-Y65qbz-PooqZyBe_65uryjQdVa9eJTGiLL5MEpCBgz2_0WhLxSiNvwL9ykdnGly46Y-r3gCQzl2stxfeSFaA.jpg?r=3e6" group-title="General",OVNIS PROYECTO  DE ALTO SECRETO DESCLASIFICADOS 2
-http://tv.nousiptv.com:8080/series/luissequeira/LS2389365/1114871.mkv
-#EXTINF:-1 tvg-logo="https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZsg5cr0PGW4kUK9uLBdRyyeVInT3eMoHk3AeoLPJttwkzvsh-Y65qbz-PooqZyBe_65uryjQdVa9eJTGiLL5MEpCBgz2_0WhLxSiNvwL9ykdnGly46Y-r3gCQzl2stxfeSFaA.jpg?r=3e6" group-title="General",OVNIS PROYECTO  DE ALTO SECRETO DESCLASIFICADOS 3
-http://tv.nousiptv.com:8080/series/luissequeira/LS2389365/1114872.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1799339.mkv
 #EXTINF:-1 tvg-logo="https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZsg5cr0PGW4kUK9uLBdRyyeVInT3eMoHk3AeoLPJttwkzvsh-Y65qbz-PooqZyBe_65uryjQdVa9eJTGiLL5MEpCBgz2_0WhLxSiNvwL9ykdnGly46Y-r3gCQzl2stxfeSFaA.jpg?r=3e6" group-title="General",OVNIS PROYECTO  DE ALTO SECRETO DESCLASIFICADOS 4
 http://tv.nousiptv.com:8080/series/luissequeira/LS2389365/1114873.mkv
 #EXTINF:-1 tvg-logo="https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZsg5cr0PGW4kUK9uLBdRyyeVInT3eMoHk3AeoLPJttwkzvsh-Y65qbz-PooqZyBe_65uryjQdVa9eJTGiLL5MEpCBgz2_0WhLxSiNvwL9ykdnGly46Y-r3gCQzl2stxfeSFaA.jpg?r=3e6" group-title="General",OVNIS PROYECTO  DE ALTO SECRETO DESCLASIFICADOS 5
 http://tv.nousiptv.com:8080/series/luissequeira/LS2389365/1114874.mkv
 #EXTINF:-1 tvg-logo="https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZsg5cr0PGW4kUK9uLBdRyyeVInT3eMoHk3AeoLPJttwkzvsh-Y65qbz-PooqZyBe_65uryjQdVa9eJTGiLL5MEpCBgz2_0WhLxSiNvwL9ykdnGly46Y-r3gCQzl2stxfeSFaA.jpg?r=3e6" group-title="General",OVNIS PROYECTO  DE ALTO SECRETO DESCLASIFICADOS 6
 http://tv.nousiptv.com:8080/series/luissequeira/LS2389365/1114875.mkv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAzI8FBTFVYPpaFviN5VI65TZsVN481jSTQ&s" group-title="General",Nunca te sueltes (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1224292.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAzI8FBTFVYPpaFviN5VI65TZsVN481jSTQ&s" group-title="General",Nunca me encontrarás (2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1835345.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5D7rSajUfvRmev9TQeMhvlJlImYOEQF_sg&s" group-title="General",El planeta de Janet (2024)
 http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1225484.mkv
 #EXTINF:-1 tvg-logo="https://cinreservas.com/wp-content/uploads/2024/12/Mufasa-WEB.png" group-title="General",Mufasa: El Rey León (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1227830.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1841276.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHBASk_dvh5wxhbXil2j3efEfofyTTQj31w&s" group-title="General",Sonic 3 La película (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1228252.mkv
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268982.mp4
 #EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/05/29/17170124352000.jpg" group-title="General",Moana 2 (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1226670.mkv
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/269076.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf3P6TiJbUbKb0YRvtxslfzz_eqr0U48aRg&s" group-title="General",Santa Homero (2024)
 http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1227573.mkv
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/12/image-59.png" group-title="General",Avicii Mi Último Show (2024)
@@ -622,7 +618,7 @@ http://fivetv.org:25461/movie/patricio662/paez663/292303.mkv
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC8xdJeOe0P0FkIw8Bc8vZR_m4udw4mi6bTtCnNqr0unpY-pFHN04NFOdhQtIBjl6CEz-N5bmOqkXly_g_3YZ7kshbFEBaqsEK52iXa6eVh8RX6ByTUi9SWLcaCT5JA_e1BLgdGPfd6fCt/s1600/captainmarvelbannerhd2.png" group-title="General",Capitana Marvel (2019)
 http://fivetv.org:25461/movie/patricio662/paez663/292314.mkv
 #EXTINF:-1 tvg-logo="https://www.criticaspolares.com/wp-content/uploads/2022/09/Predator-la-presa-2022-critica-pelicula.jpg" group-title="General",Depredador la Presa 4K (2022)
-http://fivetv.org:25461/movie/patricio662/paez663/292328.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1297865.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a645dc74137f9f888536ca1e1101ad6e41c5892431c514316be4ecab9e253afd.jpg" group-title="General",Drácula Mar de sangre 4k (2023)
 http://fivetv.org:25461/movie/patricio662/paez663/292331.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPiL1qGimY2SrO42z9-LsjTbVGL0v6R8vjCg&s" group-title="General",La Culpa no es mía (2025)
@@ -654,9 +650,9 @@ http://fivetv.org:25461/movie/patricio662/paez663/288294.mp4
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eu1GFdJBBbDC6mTiwPcJ5Gjf8aV48dOI70no9kJKUhgprcS5mV9XqV-YsjXDYfAodkjmdKS-jrbnL1a61A" group-title="General",Mujer Maravilla 1984 (2020)
 http://fivetv.org:25461/movie/patricio662/paez663/288295.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc7-AT5WoCK1Wf8uURN5I1wUMBmGcvsn8eEw&s" group-title="General",Shazam (2019)
-http://fivetv.org:25461/movie/patricio662/paez663/288290.mp4
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/1092.mp4
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGILDj-HzM3YARISL6HdJkFRmN8XT54FKcwtm-G4ht77mm9EcO98qiMMfPGCGDbqNWt-3KlL1Ur26g8WVy3-3InhftSL_Ta62fLsJR33G_TukOFcKmrSoNtU1sb79XSyTmjw0Q99qpF3U7QfbmCTklnTYnfwW2aC7rL1LABotWHVEFR3j5OtaLObaIL0dI/s1280/joker%202.png" group-title="General",Guason (2019)
-http://fivetv.org:25461/movie/patricio662/paez663/288286.mp4
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/264136.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cinemedios.com/wp-content/uploads/2019/04/aquaman-lanzamiento-bluray-dvd-e1554491442700.png?fit=968%2C585&ssl=1" group-title="General",Aquaman (2018)
 http://fivetv.org:25461/movie/patricio662/paez663/288282.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/tomorrow_never_dies-418015871-large.jpg" group-title="General",El mañana nunca muere (1997)
@@ -732,7 +728,7 @@ http://ultrapremium.cloud:8080/movie/33039929/pp6062023/268662.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nick_HD.png/640px-Nick_HD.png" group-title="General",NICKELEDEON HD
 http://lalechuza.top:80/Rg5VVADYEw/meH7mn2dX6/26530
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zylvCqNTAiQ/sddefault.jpg" group-title="General",RESPIRA (2024)
-http://lalechuza.top:80/movie/Rg5VVADYEw/meH7mn2dX6/110085.mkv
+http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17521.mkv
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-iEag4hzdVITsl9Pp-r0ENKw-t500x500.jpg" group-title="General",Sniper La última resistencia 
 http://lalechuza.top:80/movie/Rg5VVADYEw/meH7mn2dX6/131063.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/1bd5dbeb3e9df4b2d614de05b4799f37b0152d00cb73746085c9be53c7815b9a.png" group-title="General",COLOMBIANA 
@@ -747,3 +743,29 @@ http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/253420.mp4
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/253355.mp4
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/232/167/png-transparent-24-hour-service-24-hours-service-yellow-thumbnail.png" group-title="General",CINE FAMILIA 24/7 FULL HD
 http://fastream.xyz:8080/bgivon22filo/tvvenegas22/236467
+#EXTINF:-1 tvg-logo="https://duplosite.wordpress.com/wp-content/uploads/2017/08/annabelle-2.png" group-title="General",ANABELLE CREATION (2017) 
+http://yesimes.oknirvana.club:8880/movie/12mc050002/23196288/61586.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Vampiras 
+http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17242.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Kil Boy (2024)
+http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17566.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Maravilloso desastre (2023)
+http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/16148.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Perro Perdido (2023)
+http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/16197.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Unos Suegros de Armas Tomar (2023)
+http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/16284.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL ESCUADRÓN DEL DIABLO 
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1127794.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Carlinhos y Carlao
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1182933.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Diez días sin mamá 
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1183015.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA OTRA BODA (2025)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/269084.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL ASTRONAUTA (2024)
+http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/16965.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SÚPER DETECTIVES EN HOLLYWOOD (2024)
+http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17330.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SU ÚLTIMO COMBATE (2024)
+http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17331.mkv
