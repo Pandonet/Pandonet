@@ -59,8 +59,8 @@ http://tadeotv1.guiritv.xyz:8080/3zwpO1hZjd/OL3sVM8cNu/5855
 http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/81899
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-latin-america-logo-6C5053D00E-seeklogo.com.png" group-title="General",TNT SERIES 
 http://home-playtv.com:8080/cristian45x/UQSJS/53054
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-latin-america-logo-6C5053D00E-seeklogo.com.png" group-title="General",TNT  NOVELAS 4K
-http://p2.hostinggonemoreso1.com:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1167
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-latin-america-logo-6C5053D00E-seeklogo.com.png" group-title="General",TNT  serie
+http://tvmate.icu:8080/7gxkVz/122352/164958
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="General", UNIVISION 
 http://tvmate.icu:8080/23177336/23177336/15336
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="General",Telenovelas 
@@ -239,170 +239,170 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/81634
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/81701
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNkMjQzNmQtNzE4ZC00NDlmLTkyYjAtZDZkYTQ5NjBmYThlXkEyXkFqcGc@._V1_.jpg" group-title="General",Equipaje de Mano 
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17884.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkyNmU4MzAtOTkxOC00YzQ2LTlmY2QtOWQ0YmVjOGQxMWFlXkEyXkFqcGc@._V1_.jpg" group-title="General",Furias (2022)
-http://cord-cutter.net:8080/movie/23290078/13941299/202646.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkyNmU4MzAtOTkxOC00YzQ2LTlmY2QtOWQ0YmVjOGQxMWFlXkEyXkFqcGc@._V1_.jpg" group-title="General",Furia sin límites 
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1735388.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_t_ujbqDA4BOZLlebVYIMua_SQIuAloyrNQ&s" group-title="General",Furia (2019)
-http://cord-cutter.net:8080/movie/23290078/13941299/202645.mkv
-#EXTINF:-1 tvg-logo="https://media.a24.com/p/90b0f55286ec9f85f63cb3bcccbe11a1/adjuntos/296/imagenes/009/004/0009004827/533x300/smart/imagepng.png" group-title="General",Entre Navajas y Secretos 
-http://tvmate.icu:8080/movie/23177336/23177336/202588.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1294094.mkv
+#EXTINF:-1 tvg-logo="https://media.a24.com/p/90b0f55286ec9f85f63cb3bcccbe11a1/adjuntos/296/imagenes/009/004/0009004827/533x300/smart/imagepng.png" group-title="General",Entre nous 
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1485440.mkv
 #EXTINF:-1 tvg-logo="https://movienetworkpr.com/wp-content/uploads/2021/03/resen%CC%83a.png" group-title="General",Godzilla Vs Kong (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202655.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1190428.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OXiTjU30gWtqxmx4BU9RVp2OTv.jpg" group-title="General",Operación Feliz Navidad: La estafa de los duendes  (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/203001.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1171814.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJwnO2Tou9hwgy1olFn3JcCj7Sx.jpg" group-title="General",Navidad sangrienta (2019
-http://tvmate.icu:8080/movie/23177336/23177336/202971.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEhDElA9ZN4e1Cwod3ayrinWysk.jpg" group-title="General",Ocupación: Proyecto Lluvia  (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202996.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1356407.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEhDElA9ZN4e1Cwod3ayrinWysk.jpg" group-title="General",Ocupación (2018)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1255658.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="General",Ainbo: La Guerrera Del Amazonas (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202234.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zHGNWo4vrAzB5ZqQC0e3p4A2lp.jpg" group-title="General",No mires arriba  (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202985.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1226355.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zHGNWo4vrAzB5ZqQC0e3p4A2lp.jpg" group-title="General",No mires al demonio  (2018)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/88460.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRy3SwJFE55iL2bfKqECzP2qyrd.jpg" group-title="General",Pasajero 666  (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/203016.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1265639.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" group-title="General",el guerrero samurái
-http://tvmate.icu:8080/movie/23177336/23177336/202746.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1201444.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinWp_ynxg0PUP1a7CBsAGmhu6oyvxMCyjFA&s" group-title="General",EL JUEGO DE ASCENSOR  (2023)
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17939.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5jk8Q4y/descarga.jpg" group-title="General",DOS MINUTOS DE FAMA
-http://tvmate.icu:8080/movie/23177336/23177336/202206.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHC0eFvXXNokP3sSNCTG2uks87R.jpg" group-title="General", 4 DÍAS (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202207.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jk8Q4y/descarga.jpg" group-title="General",TODO POR LA FAMA (2018)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1209817.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHC0eFvXXNokP3sSNCTG2uks87R.jpg" group-title="General", Perra Vida Comedia (2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1692946.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20djTLqppfBx5WYA67Y300S6aPD.jpg" group-title="General",ABOMINABLE 
-http://tvmate.icu:8080/movie/23177336/23177336/202220.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c62odansbfa1zQ01lnyN4tIu6Dc.jpg" group-title="General",Shorts (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202213.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6O6T7N7qL4rVGSCPZeWyT9F499.jpg" group-title="General",ABIGAIL HAUNTING (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/202219.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1120540.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c62odansbfa1zQ01lnyN4tIu6Dc.jpg" group-title="General",Red de mentiras (2008)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/90016.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6O6T7N7qL4rVGSCPZeWyT9F499.jpg" group-title="General",ABIGAIL Y LA CIUDAD PERDIDA 
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1127700.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koZWBr0r5QyqotclA8IRHpYMy3N.jpg" group-title="General",Hacía las estrellas 
-http://tvmate.icu:8080/movie/23177336/23177336/202223.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyFbVSajl1NGwBJdW0xOyvh9t7G.jpg" group-title="General",Aguas Profundas (2022)
-http://tvmate.icu:8080/movie/23177336/23177336/202232.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1120538.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyFbVSajl1NGwBJdW0xOyvh9t7G.jpg" group-title="General",Algo Bajo el Agua (2024)
+https://zeus.ateneamed.xyz:8443/movie/3zwpO1hZjd/OL3sVM8cNu/17936.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k5waciRFMN5bwudDrgFLffoAorm.jpg" group-title="General",El Proyecto Adam (2022)
-http://tvmate.icu:8080/movie/23177336/23177336/202596.mkv
+https://s00.1ll.lat/0:/p/el_proyecto_adam_espanol_2022.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oROE5X5Eg3CHbY17Ze6HcbyWfHx.jpg" group-title="General",AJUSTES DE CUENTAS (2019)
-http://tvmate.icu:8080/movie/23177336/23177336/202235.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="General",A LA MIERDA EL 2020
-http://tvmate.icu:8080/movie/23177336/23177336/202236.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="General",ALERTA EN LO PROFUNDO (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202237.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koZWBr0r5QyqotclA8IRHpYMy3N.jpg" group-title="General",A Christmas Princess (2019)
-http://tvmate.icu:8080/movie/23177336/23177336/202222.mp4
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/7335.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="General",ALGO EMBARAZADA (2025)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/269665.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="General",HOMBRE  LOBO (2025)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/269222.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koZWBr0r5QyqotclA8IRHpYMy3N.jpg" group-title="General",LOS DOS HEMISFERIOS DE LUCAS (2025)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/269143.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="General",ALERTA ROJA (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202238.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="General",Ángel de combate 
-http://tvmate.icu:8080/movie/23177336/23177336/202242.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="General",ALIVE  (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/202243.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yFdmZkTJt0ViH5QCaQ1AvKJevRy.jpg" group-title="General",Bajo Ataque (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202661.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoNWf2GnEF87a8SbpB1NvhX2zr0.jpg" group-title="General",A MI ALTURA  2 (2022)
-http://tvmate.icu:8080/movie/23177336/23177336/202253.mp4
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/2472.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="General",ANGEL DE LA MUERTE 
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/246419.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="General",LA FUERZA DE LA NATURALEZA (2024)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/269705.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yFdmZkTJt0ViH5QCaQ1AvKJevRy.jpg" group-title="General",Agente Bajo Fuego (2019)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/7323.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoNWf2GnEF87a8SbpB1NvhX2zr0.jpg" group-title="General",CRIATURAS DEL FAROL (2024)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268980.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEVyAkEkpwpfyx4oZMg22A8ivDI.jpg" group-title="General",AMULET (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/202268.mp4
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/1634.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u0lDOmGmHZBLGXMDGaUA3005nt6.jpg" group-title="General",APEX (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202279.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg" group-title="General",APRUEBA DE BALA
-http://tvmate.icu:8080/movie/23177336/23177336/202281.mp4
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/2798.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg" group-title="General",UNA NIÑERA APRUEBA DE BALAS (2005)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/5363.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qZcSZAHfsSYUlQLhPJMvrj23d3K.jpg" group-title="General",ASESINOS SÁDICOS 2021
-http://tvmate.icu:8080/movie/23177336/23177336/202286.mp4
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/1673.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50dVUPdEI1qWhiTnIWN3NIZqftn.jpg" group-title="General",ATRAPADA EN LA PROFUNDIDADES 
-http://tvmate.icu:8080/movie/23177336/23177336/202291.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1242862.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="General",BAD BOY PARA SIEMPRE (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/202302.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1588177.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kgU2aIuDdPyKtEi8oZ6yzohpfVF.jpg" group-title="General",Agentes 355 (2022)
-http://tvmate.icu:8080/movie/23177336/23177336/202229.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1245951.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rbmJYyOMkgMD9M5uGu1kJbtvcLo.jpg" group-title="General",Emboscada (2022)
-http://tvmate.icu:8080/movie/23177336/23177336/202566.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1707281.mkv
 #EXTINF:-1 tvg-logo="https://cdn.milenio.com/uploads/media/2023/08/20/los-tigres-del-norte-instagram.jpg" group-title="General",Los Tigres del norte 
-http://tvmate.icu:8080/movie/23177336/23177336/202884.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1285975.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3XJshsWa1rorxNILfiJYWqnwNB2.jpg" group-title="General",NUNCA CIERRES LOS OJOS 
-http://tvmate.icu:8080/movie/23177336/23177336/202994.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1194361.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1BsH8rzfaYUDDmb8wiMmkcM5ze0.jpg" group-title="General",El Secuestro (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202649.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1243915.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/z6uPuxzFJs7OyTPrl5V0XUITKj5.jpg" group-title="General",BECKY (2020)[M]
-http://tvmate.icu:8080/movie/23177336/23177336/202322.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyFbVSajl1NGwBJdW0xOyvh9t7G.jpg" group-title="General",Agente Z - Misterio En El Zoo  (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/202230.mp4
+https://zeus.ateneamed.xyz:8443/movie/3zwpO1hZjd/OL3sVM8cNu/16434.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyFbVSajl1NGwBJdW0xOyvh9t7G.jpg" group-title="General",Misterio en Venecia (2023)
+https://zeus.ateneamed.xyz:8443/movie/3zwpO1hZjd/OL3sVM8cNu/16419.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YZjJDXztkxeHXGDCOtRyamGNE.jpg" group-title="General",Ambulance: Plan de Huida  (2022)
-http://tvmate.icu:8080/movie/23177336/23177336/202251.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1272243.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QIpIHoYdlt9ekD6mSIxe0FylpR.jpg" group-title="General",All Together Now (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/202245.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1430029.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50dVUPdEI1qWhiTnIWN3NIZqftn.jpg" group-title="General",Attraction 2: Invasion el fin de los tiempos (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/202294.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F5qxOsRB5sb358Xhf3aXeXFrf4.jpg" group-title="General",Aves del paraíso (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202298.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F5qxOsRB5sb358Xhf3aXeXFrf4.jpg" group-title="General",Aves de presa (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/202299.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="General",Bahía de invierno (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202304.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1585520.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F5qxOsRB5sb358Xhf3aXeXFrf4.jpg" group-title="General",TOC TOC TOC (2023)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1488159.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F5qxOsRB5sb358Xhf3aXeXFrf4.jpg" group-title="General",LA MALDICIÓN DE LA NOVIA (2022)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1486463.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="General",UNA CASA SIN SALIDA (2023)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1822268.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="General",Bajo sospecha
-http://tvmate.icu:8080/movie/23177336/23177336/202308.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="General",Barbie: Aventura de Princesa (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/202311.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="General",Barbie y Chelsea, el cumpleaños perdido (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202312.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D6QumiHEhnpZG12Ibjy2BxA6n4.jpg" group-title="General",Batman: Alma de Dragón (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202316.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1174024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="General",LA ORDEN (2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1882897.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg" group-title="General",OPERACIÓN  PANDA MISIÓN RESCATE (2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1877271.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D6QumiHEhnpZG12Ibjy2BxA6n4.jpg" group-title="General",CARNADA (2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1833222.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zHGNWo4vrAzB5ZqQC0e3p4A2lp.jpg" group-title="General",No respires 2 (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202987.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg" group-title="General",Batman vs. las Tortugas Ninja
-http://tvmate.icu:8080/movie/23177336/23177336/202318.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg" group-title="General",Belfast (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202323.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg" group-title="General",Ben Crump: El abogado de los afroamericanos  (2022)
-http://tvmate.icu:8080/movie/23177336/23177336/202324.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1210953.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg" group-title="General",Batman vs. Superman 
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/111923.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg" group-title="General",EL MAL PASTOR (2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1882893.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg" group-title="General",ANGELES INESPERADOS(2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1682518.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg" group-title="General",Berlin: la novia se fuga (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/202325.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDJOojbuqgnNVGmKgmuYzBpaIgP.jpg" group-title="General",Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) - (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/202328.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1158878.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDJOojbuqgnNVGmKgmuYzBpaIgP.jpg" group-title="General",FUGA DE PRISIÓN  EL AMOR ANDA SUELTO (2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1849232.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jov3rCzNT8u5b7A56c0XKCkP5Dc.jpg" group-title="General",Boda Sangrienta (2019)
-http://tvmate.icu:8080/movie/23177336/23177336/202335.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzTNmjQuF6yFIFVhfp9n3z1Ebm6.jpg" group-title="General",Opération Portugal (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/203002.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecVJMknnEj8GMc01mEhdHf2AgGA.jpg" group-title="General",Bookworm and the Beast (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202337.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecVJMknnEj8GMc01mEhdHf2AgGA.jpg" group-title="General",Borat, película film secuela
-http://tvmate.icu:8080/movie/23177336/23177336/202338.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FuOW69wl9Bf2kzaVut596sMhZ6.jpg" group-title="General",Bright: Samurai Soul (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202343.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qe2EsQMojcq2fYvtJCnrTzrl4SB.jpg" group-title="General",Buscando justicia (2019)
-http://tvmate.icu:8080/movie/23177336/23177336/202348.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1119730.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzTNmjQuF6yFIFVhfp9n3z1Ebm6.jpg" group-title="General",OPERACIÓN CACERÍA (2016)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1588619.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecVJMknnEj8GMc01mEhdHf2AgGA.jpg" group-title="General",OPERACIÓN RESCATE (2023)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1849786.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecVJMknnEj8GMc01mEhdHf2AgGA.jpg" group-title="General",OPERACIÓN NARCO (2021)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1206817.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FuOW69wl9Bf2kzaVut596sMhZ6.jpg" group-title="General",LA REINA DE FUEGO (2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1815723.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qe2EsQMojcq2fYvtJCnrTzrl4SB.jpg" group-title="General",LA COCINA (2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1863839.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9hIxAKPdXo9Fgwca6vT4USOXK6.jpg" group-title="General",Cacería Jurásica (2021) http://tvmate.icu:8080/movie/23177336/23177336/202351.mkv
-http://tvmate.icu:8080/movie/23177336/23177336/202351.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9hIxAKPdXo9Fgwca6vT4USOXK6.jpg" group-title="General",Cada respiro que das (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202352.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEhDElA9ZN4e1Cwod3ayrinWysk.jpg" group-title="General",O Melhor Verão das Nossas Vidas  (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/202998.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLtRk6uMs5WjNFLjZFJI3cZ92tw.jpg" group-title="General",Noche de fuego (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202982.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzTNmjQuF6yFIFVhfp9n3z1Ebm6.jpg" group-title="General",Origines secretos (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/203002.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1212880.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9hIxAKPdXo9Fgwca6vT4USOXK6.jpg" group-title="General",ALOCADA  OBSECIÓN (2009)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1311187.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEhDElA9ZN4e1Cwod3ayrinWysk.jpg" group-title="General",CHICA PELIGROSA (2023)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1789949.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLtRk6uMs5WjNFLjZFJI3cZ92tw.jpg" group-title="General", EL ASESINO (2023)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1877255.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzTNmjQuF6yFIFVhfp9n3z1Ebm6.jpg" group-title="General",ESTE CUERPO NO ES MIO(2002)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1766660.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDFfu73R8uO94ydFtdxEdSfTlg6.jpg" group-title="General",Pacto de Fuga (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/203009.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96OFYM1mP6UJ0NOXDM2zL3APsnp.jpg" group-title="General",Cambiados Antes De Nacer  (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202354.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1318795.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96OFYM1mP6UJ0NOXDM2zL3APsnp.jpg" group-title="General",CHAMÁN  EL ÚLTIMO  GUERRERO (2016)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1765631.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j40H5hbbdOMrkbgyMZbOa1oijwj.jpg" group-title="General",Otra forma de vencer (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/203005.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg" group-title="General",Needle in a Timestack (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202972.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j40H5hbbdOMrkbgyMZbOa1oijwj.jpg" group-title="General",Oslo (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/203004.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybRF4TLvBsdVyUZGaPaoC0pd3TG.jpg" group-title="General",Pacto con El Diablo  (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/203008.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybRF4TLvBsdVyUZGaPaoC0pd3TG.jpg" group-title="General",Ouija: Deadly Reunion (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/203006.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1192890.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg" group-title="General",NOSFERATU (2025)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1866735.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j40H5hbbdOMrkbgyMZbOa1oijwj.jpg" group-title="General",EXHUMA (2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1847223.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybRF4TLvBsdVyUZGaPaoC0pd3TG.jpg" group-title="General",ALIEN ROMULUS  (2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1869057.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybRF4TLvBsdVyUZGaPaoC0pd3TG.jpg" group-title="General",RED ONE(2024)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1823414.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRy3SwJFE55iL2bfKqECzP2qyrd.jpg" group-title="General",Paranormal Activity: Next of Kin (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/203014.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/101746.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybRF4TLvBsdVyUZGaPaoC0pd3TG.jpg" group-title="General",Paciente Cero (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/203007.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yf2ECVNcLxgRCbFAj9vHvdeqT0.jpg" group-title="General",Pandemic: COVID-19 (2020)
-http://tvmate.icu:8080/movie/23177336/23177336/203013.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1135333.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yf2ECVNcLxgRCbFAj9vHvdeqT0.jpg" group-title="General",Pandemia la guerra final(2021)
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1332187.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY9qXRJA-Lt89B8jLtsusu68Z6zS19xicAxA&s" group-title="General",Super Man - Batman Enemigo Público 
 http://ultrapremium.cloud:8080/movie/33039929/pp6062023/268200.mp4
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/11/cazafantasmas-alla-2523905.jpg?tf=3840x" group-title="General",Caza fantasma: Más allá (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202367.mp4
-#EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2021/06/cosas-imposibles-ernesto-contreras-1.jpg" group-title="General",Cosas imposibles (2021)
-http://tvmate.icu:8080/movie/23177336/23177336/202405.mp4
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/2925.mkv
+#EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2021/06/cosas-imposibles-ernesto-contreras-1.jpg" group-title="General",CONTIGO  EN EL FUTURO (2025)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/269712.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/9ffff82dda0b61e0de21bba7b391370854d29f8aa395fb06ece921fc34ebaa0c.jpg" group-title="General",Crimen a contra reloj 
 http://tvmate.icu:8080/movie/23177336/23177336/202409.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/17f345abeb92278c32eefca53e3941e01015bd93d52eb7d38e8ff9d8793f2726.jpg" group-title="General",Crazy fist  2021
@@ -420,9 +420,9 @@ http://tvmate.icu:8080/movie/23177336/23177336/202603.mp4
 #EXTINF:-1 tvg-logo="https://occ-0-8407-1722.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZqNtXc849YgxcxQJrs9dIR_PB7O5nen1zPaM5-jWo1wCn1xgGm6K1rxl0E4_TZzybkwymebXtetH_wKM__mRPgkbBacAabothUy.jpg?r=61c" group-title="General",Elige o Muere (2022)
 http://tvmate.icu:8080/movie/23177336/23177336/202522.mp4
 #EXTINF:-1 tvg-logo="https://www.opinion.com.bo/media/opinion/images/2011/01/24/2011S24.jpg" group-title="General",VIDAS LEJANA (PELÍCULAS BOLIVIANAS)
-http://moontools.me:8080/movie/B.O.S.S_I.P/WycFeigyEn/1582455.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1582455.mp4
 #EXTINF:-1 tvg-logo="https://external.flpb1-2.fna.fbcdn.net/emg1/v/t13/1293409892100120382?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmldAq8bX7aM%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&_nc_oc=AdgDFEBYAr6feDkBr0rcXHIRwmqTesOK9XNeduGS4RDzif7wurczN5pPhwfUgTv-HQE&ccb=13-1&oh=06_Q399pnkolNF1_IR-_wl58pBdm2HAIPTu5YKndy5hE1dsbu0&oe=6767A667&_nc_sid=c97757" group-title="General",UN ESFUERZO MAS
-http://moontools.me:8080/movie/B.O.S.S_I.P/WycFeigyEn/1582454.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1582454.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/ukamau-368727012-mmed.jpg" group-title="General",Ukumayu y ke
 http://moontools.me:8080/movie/B.O.S.S_I.P/WycFeigyEn/1582453.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oFItpPlB7po/maxresdefault.jpg" group-title="General",LOS HERMANOS CARTAGENA (1984)
@@ -510,7 +510,7 @@ http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2hnQgvtUfhpfau9rcWQlRtg#.mkv
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/530/522/png-transparent-garfield-a-tail-of-two-kitties-playstation-2-film-garfield-sticker-telegram.png" group-title="General",GARFIELD LA PELÍCULA 
 http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2q0YeocEDlbhX3Dj4c3cVIs#.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e_6n9Pm-Xqc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLABJ1KaEPJgCJkgSkAr6yai_pw6tg" group-title="General",LA PISCINA (2024)
-http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2sVNSaAy5mFP_NF2jCwX-xI#.mkv
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1631126.mkv
 #EXTINF:-1 tvg-logo="https://static.filmin.es/images/es/media/44055/6/card_0_3.webp" group-title="General",PELIGROSOS JUEGOS DE FAMILIA (2024)
 http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2sd88HE3mA7yy5udZ68lZ4o#.mkv
 #EXTINF:-1 tvg-logo="https://lucasfh1976.wordpress.com/wp-content/uploads/2023/10/golpeawallstreet.webp" group-title="General",GOLPE A WALL STREET (2023)
@@ -557,12 +557,6 @@ http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1347358.mp4
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1852570.mkv
 #EXTINF:-1 tvg-logo="https://www.citicinemas.com/api/og/movie/contrato-para-matar" group-title="General",Fast Charlie  Contrato para matar 
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1799339.mkv
-#EXTINF:-1 tvg-logo="https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZsg5cr0PGW4kUK9uLBdRyyeVInT3eMoHk3AeoLPJttwkzvsh-Y65qbz-PooqZyBe_65uryjQdVa9eJTGiLL5MEpCBgz2_0WhLxSiNvwL9ykdnGly46Y-r3gCQzl2stxfeSFaA.jpg?r=3e6" group-title="General",OVNIS PROYECTO  DE ALTO SECRETO DESCLASIFICADOS 4
-http://tv.nousiptv.com:8080/series/luissequeira/LS2389365/1114873.mkv
-#EXTINF:-1 tvg-logo="https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZsg5cr0PGW4kUK9uLBdRyyeVInT3eMoHk3AeoLPJttwkzvsh-Y65qbz-PooqZyBe_65uryjQdVa9eJTGiLL5MEpCBgz2_0WhLxSiNvwL9ykdnGly46Y-r3gCQzl2stxfeSFaA.jpg?r=3e6" group-title="General",OVNIS PROYECTO  DE ALTO SECRETO DESCLASIFICADOS 5
-http://tv.nousiptv.com:8080/series/luissequeira/LS2389365/1114874.mkv
-#EXTINF:-1 tvg-logo="https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZsg5cr0PGW4kUK9uLBdRyyeVInT3eMoHk3AeoLPJttwkzvsh-Y65qbz-PooqZyBe_65uryjQdVa9eJTGiLL5MEpCBgz2_0WhLxSiNvwL9ykdnGly46Y-r3gCQzl2stxfeSFaA.jpg?r=3e6" group-title="General",OVNIS PROYECTO  DE ALTO SECRETO DESCLASIFICADOS 6
-http://tv.nousiptv.com:8080/series/luissequeira/LS2389365/1114875.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAzI8FBTFVYPpaFviN5VI65TZsVN481jSTQ&s" group-title="General",Nunca me encontrarás (2024)
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1835345.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5D7rSajUfvRmev9TQeMhvlJlImYOEQF_sg&s" group-title="General",El planeta de Janet (2024)
@@ -658,7 +652,7 @@ http://fivetv.org:25461/movie/patricio662/paez663/288282.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/tomorrow_never_dies-418015871-large.jpg" group-title="General",El mañana nunca muere (1997)
 http://fivetv.org:25461/movie/patricio662/paez663/198148.mkv
 #EXTINF:-1 tvg-logo="https://www.elsetantanou.com/imagenes/poridentidad?identidad=bfb00b91-8a97-4cad-bedd-137e9887e48f&ancho=900&alto=" group-title="General",Anaconda (1997)
-http://fivetv.org:25461/movie/patricio662/paez663/55134.mp4
+http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/91439.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsdAtP_P86IGIVbNeZXAtRVZZ45KugQK1zpZuGVDX6m068J7ktioM6v5t3mxDLCPR-nU&usqp=CAU" group-title="General",Cara cortada (1983)
 http://fivetv.org:25461/movie/patricio662/paez663/55438.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/blunt_force_trauma-301406427-large.jpg" group-title="General",Disparo Letal (2015)
@@ -745,27 +739,27 @@ http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/253355.mp4
 http://fastream.xyz:8080/bgivon22filo/tvvenegas22/236467
 #EXTINF:-1 tvg-logo="https://duplosite.wordpress.com/wp-content/uploads/2017/08/annabelle-2.png" group-title="General",ANABELLE CREATION (2017) 
 http://yesimes.oknirvana.club:8880/movie/12mc050002/23196288/61586.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Vampiras 
+#EXTINF:-1 tvg-logo="https://proimagenescolombia.com/photos/57150_9907_imagen__.png" group-title="General",Vampiras 
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17242.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Kil Boy (2024)
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/wp-content/uploads/2024/07/kill-boy.jpg" group-title="General",Kil Boy (2024)
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17566.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Maravilloso desastre (2023)
+#EXTINF:-1 tvg-logo="https://elcomercio-perucom-prod.web.arc-cdn.net/resizer/v2/NIMW6EMZUVAQ7HWPRAPSWQEIJM.png?auth=dbce41fc989229b8cd7dafed2caa40603f6f53aec074cbc186016f9798bc3c9e" group-title="General",Maravilloso desastre (2023)
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/16148.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Perro Perdido (2023)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzUxMWJjMDgtOGRhZC00NjA5LWI3OWQtYzM1NzI4ZmVkOGYyXkEyXkFqcGc@._V1_.jpg" group-title="General",Perro Perdido (2023)
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/16197.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Unos Suegros de Armas Tomar (2023)
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/23/07/06/01/38/1466169.jpg" group-title="General",Unos Suegros de Armas Tomar (2023)
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/16284.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL ESCUADRÓN DEL DIABLO 
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/e/l/-/xel-escuadron-del-diablo-698964_SPA-30.jpg.pagespeed.ic.JhZsQafI5g.jpg" group-title="General",EL ESCUADRÓN DEL DIABLO 
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1127794.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Carlinhos y Carlao
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/199f98d3ab4a29002739b72a24cc2ccfce0e01eabaeb46642b2a409372349e09._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_.jpg" group-title="General",Carlinhos y Carlao
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1182933.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Diez días sin mamá 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZPiD-XdrmaMRMDxDpcRMDWt44kKGCS1hdA&s" group-title="General",Diez días sin mamá 
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1183015.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA OTRA BODA (2025)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/f4fed05b660218e2471732ecb643af560f6e0ab67811d85b62a2480b6dbc7967.jpg" group-title="General",LA OTRA BODA (2025)
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/269084.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL ASTRONAUTA (2024)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZvQAVOmap-7Izaw4BIKeIz39Qi1bpHYxqw&s" group-title="General",EL ASTRONAUTA (2024)
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/16965.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SÚPER DETECTIVES EN HOLLYWOOD (2024)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77jJsO2lH75JYU3m7JrxPD12kI1IaJczj0hlZgRi6OT11MjMNVbz7d8uEik4joLKtd4HKDlFjikxHzs0SeKnA9_oziwBB4ncjB4XKDMsVBSKciSWY0S8vIovXnnJIbGV7JQD5gC0NUHqeUe08oC2lhxQiD4-odlCmet3-FXgK6noz64AYCHFipZWHUfc/w640-h360/vlcsnap-2024-07-04-04h42m30s907.png" group-title="General",SÚPER DETECTIVES EN HOLLYWOOD (2024)
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17330.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SU ÚLTIMO COMBATE (2024)
+#EXTINF:-1 tvg-logo="https://www.mubis.es/media/articles/33597/329274/primeros-datos-de-su-ultimo-combate-en-blu-ray-original.jpg" group-title="General",SU ÚLTIMO COMBATE (2024)
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17331.mkv
