@@ -173,8 +173,6 @@ http://tvpremiund.ddns.me:2082/movie/ROBERTOFIERRO/J5xYCry8aAWC/81260.mp4
 http://tvpremiund.ddns.me:2082/movie/ROBERTOFIERRO/J5xYCry8aAWC/5800.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Nn8o61DOAFw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBvPz8uILhxSMrBxbyiTrbdjwxGXw" group-title="General",EL TRAFICANTE (2019)
 http://tvpremiund.ddns.me:2082/movie/ROBERTOFIERRO/J5xYCry8aAWC/3791.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",TOP 40 LIVE
-http://panelguys.top:8080/sY6kSEQnpF/YciGw9rYxJ/124058
 #EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ7qiOpgkMCxIOU3RhdGlvblByb2ZpbGUYgIDQ9rSQjwgMogEEemVubw/images/logo?keep=w&resize=350x350" group-title="General",PANDONETTVRADIO
 https://stream-176.zeno.fm/rgp3azdakg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZ3AzYXpkYWtnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlWWXFYbVkxUUhLS0pZbU9acXFsc3ciLCJpYXQiOjE3NDIxNjk0NzksImV4cCI6MTc0MjE2OTUzOX0.4WD_eVWHb_qParVIj60UFWQ6VTsx52hvSCaHjxbwZw8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTioGg_UkniODp0bB-APllsJbVAY7DWyE9DiQ&s" group-title="General",AVENTURA EN  LA SELVA
@@ -215,7 +213,9 @@ http://moontoolsplayer.me:8080/movie/Tonyt72/t0n1t72/1915593.mkv
 http://moontoolsplayer.me:8080/movie/Tonyt72/t0n1t72/1844296.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ARTICO (2018)
 http://moontoolsplayer.me:8080/movie/war2rodri/eWfQ3GgvrvFf/1128837.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",VACACIONES EN FAMILIA 
-http://moontoolsplayer.me:8080/movie/war2rodri/eWfQ3GgvrvFf/1179087.mp4
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ALMEIDA SPORT 
 https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfnZ5xvrML0QgdzMb9NcU_cQ/ts
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",VACACIONES EN FAMILIA 
+http://moontoolsplayer.me:8080/movie/war2rodri/eWfQ3GgvrvFf/1179087.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",TOP 40 LIVE
+http://panelguys.top:8080/sY6kSEQnpF/YciGw9rYxJ/124058
