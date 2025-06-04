@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
-https://live20.bozztv.com/akamaissh101/ssh101/pandonettv4201/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTMUSIC
 https://live20.bozztv.com/giatvplayout7/giatv-209235/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
+https://live20.bozztv.com/akamaissh101/ssh101/pandonettv4201/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/twh0GgvR/Utool-20250401-224313622.png" group-title="General",KIKE NAVALA PERIODISTA 
 https://live20.bozztv.com/giatvplayout7/giatv-209405/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDZJFcK1/Screenshot-20250528-125729-com-facebook-katana-Immersive-Activity-edit-340469869794494.jpg" group-title="General",TVU PANDO 
@@ -12,11 +12,11 @@ https://live-stream.iblups.com/video/327f2c6516288389615d56d31dcd52c02bb1aa25.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r6LWLBp/images.jpg" group-title="General",MANURIPI TV
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL HD
-http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/336553
+http://tvlatino.club:2082/llan99/A4qLTJtnbDGB/340010
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  SD
-http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/131692
+http://tvlatino.club:2082/live/llan99/A4qLTJtnbDGB/340010.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL Cochabamba FULLHD
-http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/131691
+http://extremevip.xyz:8080/live/Gerip424/jTMs2DAY/48752.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGEJ7PZPt6SAIsF1YzqXMxcWzWQpzSnJT7cw&s" group-title="General",PODER DE DIOS
