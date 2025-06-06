@@ -33,18 +33,18 @@ https://sneoplus.vip:8443/play/k-_kRs9o5ALyXRH0hjuhJuw3PfrsY8LENTKEhKy8Nnk/ts
 https://www.redpat.tv/proxy/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="General",BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UOF0FHNKGP8p--i0wbdxRSW4BrjSk-mTw&s" group-title="General",CADENA A
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UOF0FHNKGP8p--i0wbdxRSW4BrjSk-mTw&s" group-title="General",TIGO sports 
+http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/426744
 #EXTINF:-1 tvg-logo="https://f10.tv.bo/wp-content/uploads/2024/06/351466087_3521344231429745_2162507638893969516_n-1.jpg" group-title="General",F10
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",SKY SPORTS
-http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/426744
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/145440
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sports solo eventos
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/167723
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sport 4
-http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/167723
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/148457
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",Sky SPORTS
-http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/167723
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/132284
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",Entel TV  SOLO EVENTOS
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/426744
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",CD N DEPORTES
@@ -122,7 +122,7 @@ http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/5105
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png" group-title="General", CINE COMEDIA 
 https://sneoplus.vip:8443/play/k-_kRs9o5ALyXRH0hjuhJrVU-1affXvt_fYOHtelNKo/ts
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/007/688/855/non_2x/tv-logo-free-vector.jpg" group-title="General",Tc & Sport 
-https://sneoplus.vip:8443/play/k-_kRs9o5ALyXRH0hjuhJsbxx9PPX_1Me6DsPpVpk78/ts
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/148455
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.B7LgOtHbdvTf3biM1x3JCwAAAA?pid=ImgDet&w=159&h=238&c=7" group-title="General",CHESPIRITO 24/7
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398070
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/272385.png" group-title="General",UN ROBO DE PRIMERA CLASE
