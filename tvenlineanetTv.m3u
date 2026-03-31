@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL âœª | CL
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="593" tvg-name="Agro Brasil TV" tvg-logo="https://cdn.m3u.cl/logo/593_Agro_Brasil_TV.png", Agro Brasil TV | BR
 https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577.m3u8?session=GxrnToeLVpURWXrzFL3puo&PlaylistM3UCL
 #EXTINF:-1 tvg-id="1028" tvg-name="ArarunaTV" tvg-logo="https://cdn.m3u.cl/logo/1028_ArarunaTV.png", ArarunaTV | BR
